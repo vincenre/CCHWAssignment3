@@ -6,4 +6,4 @@ I have used Open Weather Map API
 
 I have also used Bootstrap for UI and JQuery to make AJAX calls to my python Webservice
 
-I have used CanvasJS to display the results on the webpage
+I have used CanvasJS to plot the graph
